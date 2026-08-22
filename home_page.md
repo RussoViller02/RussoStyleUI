@@ -1,4 +1,4 @@
-## 👑 » RussoZL2 UI | v1.8.7 « 👑 
+## 👑 » RussoZL2 UI | v1.8.8 « 👑 
 
 **📝 » Página 100% Funcional para ZL2 2.4.4+! « 📝**
 
@@ -9,7 +9,7 @@
 
 - - -
 
-...image url="https://raw.githubusercontent.com/RussoViller/russostyle-saves/main/file_00000000fb70820eb6a665f3b721865a.png" width=28% shape=20dp
+...image url="https://raw.githubusercontent.com/RussoViller/russostyle-saves/main/file_00000000b888820ea50a5be0d9424121.png?utm_source=chatgpt.com" width=28% shape=20dp
 
 - - -
 
@@ -19,20 +19,20 @@
 
 ...row-start horizontal=spacedBy(8)
 
-...button-filled-tonal text="⚫ › Perfil Do TikTok ‹ ⚫" event="url {https://www.tiktok.com/@russoviller.mc?_r=1&_t=ZS-96ARYqKd7lE}" weight=(1)
-...button-outlined text="🔴 › Perfil Do YouTube ‹ 🔴"  event="url {https://youtube.com/@russoviller?si=Yt6LPyrvKmovJjWl}" weight=(1)
+...button-filled-tonal text="⚫ › Meu Perfil Do TikTok ‹ ⚫" event="url {https://www.tiktok.com/@russoviller.mc?_r=1&_t=ZS-96ARYqKd7lE}" weight=(1)
+...button-outlined text="🔴 › Meu Perfil Do YouTube ‹ 🔴"  event="url {https://youtube.com/@russoviller?si=Yt6LPyrvKmovJjWl}" weight=(1)
 
 ...row-end
 
 ...column-start horizontal=Center
 
-...button text="📦 › Discord da minha Comunidade do Zalith ‹ 📦" event="url {https://discord.gg/Zt26qUMty8}"
+...button text="📦 › Discord da minha Comunidade ‹ 📦" event="url {https://discord.gg/Zt26qUMty8}"
 
 ...column-end
 
 ...row-start horizontal=spacedBy(8)
 
-...button-outlined text="🌸 › Perfil Do BiliBili ‹ 🌸" event="url {https://b23.tv/oX0suBN}" weight=(1)
+...button-outlined text="🌸 › Meu Perfil Do BiliBili ‹ 🌸" event="url {https://b23.tv/oX0suBN}" weight=(1)
 ...button-filled-tonal text="⚫ › Minha Página do Patreon ‹ ⚫"  event="url {https://www.patreon.com/RussoViller_?utm_campaign=creatorshare_creator}" weight=(1)
 
 ...row-end
@@ -46,13 +46,14 @@
 
 ...column-start horizontal=Center
 
-...button  text="⚙️ › Verificar atualização do ZL2 ‹ ⚙️"  event="check_update"
+...button  text="⚙️ › Verificar se tem atualização do ZL2 ‹ ⚙️"  event="check_update"
 
 ...image  url="https://raw.githubusercontent.com/RussoViller/russostyle-saves/main/BackgroundEraser_20260524_164626498.png" width=24% shape=0dp
 
 ...column-end
 
 ...button-outlined text="🔗 › ZalithLauncher2 • Site OFC ‹ 🔗"  event="url {https://www.zalithlauncher.cn/zl2-download.html}"
+&nbsp;
 ...button-outlined text="🔗 › ZalithLauncher2 • GitHub ‹ 🔗" event="url {https://github.com/ZalithLauncher/ZalithLauncher2}"
 
 - - -
@@ -67,7 +68,7 @@
 
 - - -
 
-## 👑 » Tudo Sobre a RussoZL2 UI 1.8.7!
+## 👑 » Tudo Sobre a RussoZL2 UI 1.8.8!
 
 - Visual limpo e moderno.
 - Atalhos rápidos do launcher!
@@ -79,6 +80,6 @@
 
 ## 🧰 » Mudanças/Adições na RussoZL2 UI
 
-• RussoZL2 UI atualizada para: v1.8.7! 😍🔥 (21/07/2026 | 17:51)
+• RussoZL2 UI atualizada para: v1.8.8! 😍🔥 (22/08/2026 | 13:40)
 
-› Adicionado o botão para minha página do BiliBili e do Patreon.
+› Foto principal alterada.
