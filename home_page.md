@@ -1,4 +1,4 @@
-## 👑 » RussoZL2 UI | v1.8.8 « 👑 
+## 👑 » RussoZL2 UI | v1.8.9 « 👑 
 
 **📝 » Página 100% Funcional para ZL2 2.4.4+! « 📝**
 
@@ -26,7 +26,7 @@
 
 ...column-start horizontal=Center
 
-...button text="📦 › Discord da minha Comunidade ‹ 📦" event="url {https://discord.gg/Zt26qUMty8}"
+...button text="📦 › Discord da minha Comunidade ‹ 📦" event="url {https://discord.gg/63brwP8wpS}"
 
 ...column-end
 
@@ -68,7 +68,7 @@
 
 - - -
 
-## 👑 » Tudo Sobre a RussoZL2 UI 1.8.8!
+## 👑 » Tudo Sobre a RussoZL2 UI 1.8.9!
 
 - Visual limpo e moderno.
 - Atalhos rápidos do launcher!
@@ -80,6 +80,6 @@
 
 ## 🧰 » Mudanças/Adições na RussoZL2 UI
 
-• RussoZL2 UI atualizada para: v1.8.8! 😍🔥 (22/08/2026 | 13:40)
+• RussoZL2 UI atualizada para: v1.8.9! 😍🔥 (25/08/2026 | 13:00)
 
-› Foto principal alterada.
+› Link do Discord Atualizado.
