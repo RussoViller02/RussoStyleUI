@@ -1,11 +1,11 @@
-## 👑 » RussoZL2 UI | v1.8.9 « 👑 
+## 👑 » RussoZL2 UI | v1.9.0 « 👑 
 
 **📝 » Página 100% Funcional para ZL2 2.4.4+! « 📝**
 
 &nbsp;
 &nbsp;
 
-## • Página inicial do ZL2 customizada do RussoViller!
+## • Página Inicial Customizada Do RussoViller!
 
 - - -
 
@@ -52,23 +52,23 @@
 
 ...column-end
 
-...button-outlined text="🔗 › ZalithLauncher2 • Site OFC ‹ 🔗"  event="url {https://www.zalithlauncher.cn/zl2-download.html}"
-&nbsp;
+...button-outlined text="🔗 › ZalithLauncher2 • Site OFC ‹ 🔗"  event="url {https://www.zalithlauncher.cn/}"
+
 ...button-outlined text="🔗 › ZalithLauncher2 • GitHub ‹ 🔗" event="url {https://github.com/ZalithLauncher/ZalithLauncher2}"
 
 - - -
 
-## 🚖 » Opções de atalho do launcher:
+## 🚖 » Atalhos do launcher:
 
 &nbsp;
 
-**🛠 » Compartilhar Logs da versão selecionada:**
+**🛠 » Compartilhar Log da Versão Selecionada:**
 
-...button-outlined text="📄 Compartilhar Logs da última sessão da versão selecionada 📃" event="share_game_log" width=99% shape=20dp
+...button-outlined text="📄 › Compartilhar Último Log da Versão Selecionada ‹ 📃" event="share_game_log" width=99% shape=20dp
 
 - - -
 
-## 👑 » Tudo Sobre a RussoZL2 UI 1.8.9!
+## 👑 » Tudo Sobre a RussoZL2 UI 1.9.0!
 
 - Visual limpo e moderno.
 - Atalhos rápidos do launcher!
@@ -80,6 +80,6 @@
 
 ## 🧰 » Mudanças/Adições na RussoZL2 UI
 
-• RussoZL2 UI atualizada para: v1.8.9! 😍🔥 (25/08/2026 | 13:00)
+• RussoZL2 UI atualizada para: v1.9.0! 😍🔥 (01/09/2026 | 23:56)
 
-› Link do Discord Atualizado.
+› Pequenas alterações.
